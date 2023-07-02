@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Parallel Program Codes\SIMD2D\main.cpp(341,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  SIMD2D.vcxproj -> D:\Parallel Program Codes\SIMD2D\x64\Debug\SIMD2D.exe
